@@ -1,0 +1,36 @@
+/* ----- BASE STYLES - EXTRA SMALL DEVICES - MOBILE  ----- */
+/* CSS RULES  */
+
+/* ----- SMALL DEVICES - TABLETS ---- */
+/* CSS RULES*/
+@media  and (min-width:576px){
+
+
+}
+
+
+/* ----- MEDIUM DEVICES - LAPTOPS ---- */
+   /* CSS RULES*/
+   @media  and (min-width:768px){
+
+
+   }    
+
+   /* ----- LARGE DEVICES - DESKTOPS ---- */
+   /* CSS RULES*/
+   @media  and (min-width:992px){
+
+
+   }    
+
+
+   /* ----- EXTRA LARGE DEVICES - LARGE DESKTOPS ---- */
+   /* CSS RULES*/
+   @media  and (min-width:1200px){
+
+
+   }
+
+
+
+
